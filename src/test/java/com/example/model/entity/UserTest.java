@@ -1,0 +1,17 @@
+package com.example.model.entity;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+@DataJpaTest
+class UserTest {
+
+
+	@Test
+	public void te(){
+
+
+	}
+}
